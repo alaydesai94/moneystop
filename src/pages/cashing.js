@@ -8,13 +8,10 @@ class Cashing extends Component {
 
       <div>
 
-        <SearchName />
+          <div>
+            <SearchName />
+          </div>
 
-        <div>
-
-          <InfoResult />
-
-        </div>
 
         <div style={{
           display: 'flex',
